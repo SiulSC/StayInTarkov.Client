@@ -1,0 +1,20 @@
+## HOW TO FIX CUSTOM BUNDLES NOT APPEARING OR APPEARING AS DOGES:
+---
+
+The issue happens when the bundle is not organized as it should be, or has a different file extension like .GOBLIN
+
+You will need the original mod from the SPT Hub or Nexus with the bundles folder and the files in it.
+
+## To fix this, you need to follow some steps:
+
+1. Go to your game and find /user/cache/bundles
+2. Go into the bundles folder, and here is where the magic happens
+3. Now go to your desired mod you wanna fix and go into the bundles folder inside that mod
+4. Select all the files inside the bundles folder in your desired mod
+5. Copy all of the files from the bundles folder in your desired mod
+6. Paste the files inside the /user/cache/bundles folder you opened in Step 2.
+7. After you paste the files, it will tell you if you want to replace them and click replace
+8. Done! Your mod should work properly and you can bundle your cache folder into a modpack to send it to your friends so they also get the fix.
+---
+
+Hope this fix works for you and if you have any questions, you can join the Official SIT Discord Server where I am active and will help you with the process
